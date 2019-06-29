@@ -1,0 +1,256 @@
+@media screen and (max-width: 1526px) {
+ 
+  
+}
+@media screen and (max-width: 1400px) {
+
+
+}
+@media screen and (max-width: 1230px) {
+  
+}
+@media screen and (max-width: 1200px){
+#mainSlider.owl-theme .owl-nav{
+	    left: calc((100% - 960px)/2);
+}
+}
+@media screen and (max-width: 1100px){
+
+}
+
+@media screen and (max-width: 997px) {
+	.menu .menu-items:after{
+		content: none;
+	}
+	.menu{
+		bottom: auto;
+		top:0;
+	}
+	.navbar-brand{
+		    justify-self: flex-start;
+    margin-right: auto;
+	}
+	.navbar-light .navbar-toggler{
+		border-color:white;
+	}
+.menu .navbar{
+	justify-content: flex-end!important;
+}
+.collapse:not(.show){
+	display: none!important;
+}
+
+    #mainSlider.owl-theme .owl-nav{
+    	    left: 0;
+    right: 0;
+    }
+    .new-section .section-item,.new-section .section-item:nth-child(6n+1),.new-section .section-item:nth-child(6n){
+    	width:90%;
+    }
+    .new-section .row{
+    	justify-content: center;
+    }
+
+.menu .hdr-menu{
+	
+	flex-direction: column;
+	width: 100%
+}
+.menu .hdr-menu .form-group{
+	position: static;
+	width: 100%;
+    opacity: 1;
+}
+.menu .navbar-nav .nav-item{
+	padding: 0.5rem
+}
+.navbar-toggler{
+	    font-size: 28px;
+	color: #fff;
+	background-color: #16a085;
+}
+.navbar-light .navbar-toggler i{
+	color:white;
+}
+.menu .navbar .nav-link{
+	text-align: center;
+	color:white;
+	
+}
+.menu .navbar-expand-lg .navbar-nav .dropdown-menu.show:before{
+	content: none;
+	color:white;
+}
+.menu .dropdown-item {
+	color:white;
+}
+.menu{
+	z-index: 9;
+	    background-color:#16a085;
+}
+}
+
+@media screen and (max-width: 870px) {
+.navbar-nav .dropdown-menu{
+	background-color: transparent;
+	border:0px;
+}
+.menu .dropdown-item{
+	color: #000;
+	text-align: center;
+}
+}
+@media screen and (max-width: 770px){
+	.ico{
+		margin-left:40%;
+	}
+	.banner{
+		    position: static;
+   
+    margin-bottom: 20px;
+	}
+	.second-section .section-img{
+		height: 350px;
+	}
+	.second-section img{
+		
+		width:100%;
+		height: 200px;
+	}
+	.second-section .right-item{
+		margin-bottom: 20px;
+	}
+	.static-section .section-img{
+		width: 100%;
+		float: none;
+	}
+	.second-section .section-img:before {
+    
+    right: 63px;
+    bottom: -30px;
+ 
+    width: 80%;
+}
+.menu .navbar-collapse{
+	    overflow-y: auto;
+    max-height: 80vh;
+    padding-bottom: 2rem;
+    background-color: transparent;
+}
+	#mainSlider .item h1{
+		font-size: 1.5rem;
+		width: 100%;
+	}
+.static-section .list tr{
+	display: flex;
+	flex-wrap: wrap;
+	border:0px;
+	    margin-bottom: 20px;
+}
+.static-section .list td{
+	width: 100%!important
+}
+.static-section .section-img{
+	width: 100%;
+	float: none;
+}
+#mainSlider .item h2{
+	width:100%;
+	font-size: 1.5rem;
+}
+.footer-menu{
+	margin-left: 1rem;
+	flex-wrap: wrap;
+}
+.image-section{
+	width: 100%;
+}
+
+.item-container .row{
+	width: initial;
+}
+.bottom-footer .col-6{
+	order:2;
+	margin-bottom: 20px;
+	margin-left: 1rem
+}
+.second-section .info-header{
+	flex-wrap: wrap;
+	height: auto;
+}
+.second-section .list td h4{
+	font-size: 16px;
+}
+.menu .navbar{
+	padding: 0.5rem 2rem;
+}
+.second-section .list td:first-child{
+	display: flex;
+	justify-content: center;
+}
+.second-section .info-header .block-title{
+	width: 100%;
+	position: static;
+}
+.second-section .info-header img{
+	width: 100%;
+}
+.menu .navbar-expand-lg .navbar-nav .dropdown-menu.show{
+	min-width: auto;
+}
+.main-container h1{
+	font-size: 25px;
+}
+.cookies-content{
+	bottom: 0;
+}
+.second-section .list{
+	width: 80%;
+}
+.second-section .text{
+	padding:0.5rem
+}
+.left-side{
+	order:2;
+}
+#currentProjects{
+	margin-top: 20px
+}
+#currentProjects .owl-nav {
+    position: absolute;
+    top: -46px;
+    right: 0;
+}
+.second-section .list td{
+	border-bottom: 0px;
+}
+.second-section-left{
+	float: none;
+}
+}
+@media screen and (max-width: 574px){
+ 
+}
+@media screen and (max-height: 415px) {
+
+}
+@media screen and (max-height: 375px){
+
+}
+@media screen and (max-height: 320px) {
+
+
+}
+@media screen and (max-width: 470px){
+
+}
+@media screen and (max-width: 410px){
+
+}
+@media screen and (max-width: 375px){
+
+}
+
+@media screen and (max-width: 325px){
+
+}
