@@ -260,15 +260,7 @@
 	
 }
 @media screen and (max-height: 375px){
-		#content {
-  
-  
-			height: 50px;
-			width: 100px;
-			left:80%;
-			
-  
-}
+		
         
 }
 @media screen and (max-height: 320px) {
