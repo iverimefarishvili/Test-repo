@@ -249,15 +249,7 @@
    .wrapper{
 	   width: 80%;
    }
-   #content {
-  
-  
-			height: 50px;
-			width: 100px;
-			left:50%;
-			
-  
-}
+   
       
    
 }
@@ -267,25 +259,11 @@
 
 
 	}
-	#search-input {
-  
-  
-			
-			margin-left:70%;
-			
-  
-}
+	
 	
 }
 @media screen and (max-height: 375px){
-	#search-input {
-  
-  
-			
-	   margin-left:80%;
-			
-  
-}	  
+	
 }
 	
 @media screen and (max-height: 320px) {
