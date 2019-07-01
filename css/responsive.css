@@ -234,7 +234,7 @@
   
   height: 50px;
   width: 300px;
-  left:85%;
+  left:75%;
 }
 .square{
 	width: 200px;
@@ -244,11 +244,11 @@
 }
 @media screen and (max-width: 574px){
    .square{
-	   width: 170px;
+	   width: 100px;
    } 
 }
 @media screen and (max-height: 415px) {
-	.square{ width: 140;}
+	
 }
 @media screen and (max-height: 375px){
 		#content {
