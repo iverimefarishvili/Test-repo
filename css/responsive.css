@@ -236,6 +236,7 @@
   width: 300px;
   left:70%;
 }
+
 .square{
 	width: 200px;
 }
@@ -246,20 +247,15 @@
    .square{
 	   width: 100px;
    } 
+   #content{
+			margin-left: 10%;
+		}
 }
 @media screen and (max-height: 415px) {
 	
 }
 @media screen and (max-height: 375px){
-		#content {
-  
-  
-			height: 50px;
-			width: 100px;
-			left:80%;
-			
-  
-}
+		
         
 }
 @media screen and (max-height: 320px) {
