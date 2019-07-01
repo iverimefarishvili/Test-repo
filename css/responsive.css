@@ -244,13 +244,19 @@
 }
 @media screen and (max-width: 574px){
    .square{
-	   width: 150px;
+	   width: 180px;
    } 
+   #content:focus{
+	   left: 75%;
+   }
 }
 @media screen and (max-height: 415px) {
 	.square{
-	   width: 110px;
+	   width: 150px;
+
+
 	}
+	
 }
 @media screen and (max-height: 375px){
 		#content {
