@@ -229,37 +229,39 @@
 }
 }
 @media screen and (max-width: 767px){
+	#content {
+  
+  
+  height: 50px;
+  width: 300px;
+  left:75%;
 }
 .square{
-	width: 210px;
+	width: 200px;
 }
 
 
 }
 @media screen and (max-width: 574px){
    .square{
-	   width: 180px;
+	   width: 170px;
    } 
-   .wrapper{
-	   width: 80%;
-   }
-   
-      
-   
 }
 @media screen and (max-height: 415px) {
-	.square{
-	   width: 130px;
-
-
-	}
-	
-	
+	.square{ width: 140;}
 }
 @media screen and (max-height: 375px){
-	
+		#content {
+  
+  
+			height: 50px;
+			width: 100px;
+			left:80%;
+			
+  
 }
-	
+        
+}
 @media screen and (max-height: 320px) {
 
 
