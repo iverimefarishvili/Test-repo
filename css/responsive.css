@@ -246,9 +246,7 @@
    .square{
 	   width: 180px;
    } 
-   #content:focus{
-	   left: 75%;
-   }
+   
 }
 @media screen and (max-height: 415px) {
 	.square{
