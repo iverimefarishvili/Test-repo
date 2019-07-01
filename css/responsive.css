@@ -263,15 +263,24 @@
 }
 @media screen and (max-height: 415px) {
 	.square{
-	   width: 150px;
+	   width: 130px;
 
 
 	}
+	#content {
+  
+  
+			
+			left:70%;
+			
+  
+}
 	
 }
 @media screen and (max-height: 375px){
 		  
-}
+
+	
 @media screen and (max-height: 320px) {
 
 
