@@ -244,12 +244,12 @@
 }
 @media screen and (max-width: 574px){
    .square{
-	   width: 100px;
+	   width: 150px;
    } 
 }
 @media screen and (max-height: 415px) {
 	.square{
-	   width: 80px;
+	   width: 110px;
 	}
 }
 @media screen and (max-height: 375px){
