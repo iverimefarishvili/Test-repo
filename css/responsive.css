@@ -237,16 +237,20 @@
   left:75%;
 }
 .square{
-	width: 50px;
+	width: 200px;
 }
 
 
 }
 @media screen and (max-width: 574px){
- 
+   .square{
+	   width: 100px;
+   } 
 }
 @media screen and (max-height: 415px) {
-       
+	.square{
+	   width: 80px;
+	}
 }
 @media screen and (max-height: 375px){
 		#content {
