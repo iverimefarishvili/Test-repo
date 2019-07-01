@@ -838,10 +838,11 @@ footer {
 
 #content {
   
-  position: absolute;
+  position: relative;
   height: 50px;
   width: 300px;
-  left:65%;
+  margin: 0 auto;
+  left:33%;
   top: 50%;
   
   transform: translate(-50%, -50%);
@@ -984,7 +985,7 @@ input {
   transform: translate(-100%, -50%);
 }
 .active{
-  border-left: none !important;
+  border-left: solid 2px #16a085;
  
 }
 .meta span{
@@ -1025,7 +1026,11 @@ input {
     position: relative;
     border-top: 0;
     border-radius: 2px; }
-    .blog-entry .text .heading {
+    .heading{
+      font-size:20px;
+      font-weight: 400;
+    }
+    .blog-entry .text  {
       font-size: 28px;
       margin-bottom: 16px;
       font-weight: 400; }

@@ -10,6 +10,9 @@
   
 }
 @media screen and (max-width: 1200px){
+	#content{
+		left: 40%;
+	}
 #mainSlider.owl-theme .owl-nav{
 	    left: calc((100% - 960px)/2);
 }
@@ -19,6 +22,7 @@
 }
 
 @media screen and (max-width: 997px) {
+	
 	.menu .menu-items:after{
 		content: none;
 	}
@@ -89,7 +93,11 @@
 	    background-color:#16a085;
 }
 }
-
+@media screen and (max-width: 991px){
+	#content{
+		left: 55%;
+	}
+}
 @media screen and (max-width: 870px) {
 .navbar-nav .dropdown-menu{
 	background-color: transparent;
@@ -233,32 +241,41 @@
 		width: 80%;
 	}
 	#content {
-  
-  
-  height: 50px;
-  width: 300px;
-  left:70%;
+  left:67%;
+ 
 }
 
 .square{
-	width: 200px;
+	width: 230px;
+	height: 45px;
 }
 
 
 }
 @media screen and (max-width: 574px){
    .square{
-	   width: 100px;
+	   width: 180px;
    } 
-   #content{
-			margin-left: 10%;
+   
+}
+@media screen and (max-width:470px){
+	#content{
+        left: 95;
 		}
+		.square{
+	   width: 140px;
+   } 
 }
 @media screen and (max-height: 415px) {
+	#content{
+        left: 80;
+		}
 	
 }
 @media screen and (max-height: 375px){
-		
+		#content{
+        left: 280;
+		}
         
 }
 @media screen and (max-height: 320px) {
