@@ -266,15 +266,18 @@
 	   width: 140px;
    } 
 }
-@media screen and (max-height: 415px) {
+@media screen and (max-width: 415px) {
 	#content{
-        left: 80;
+        left: 80%;
 		}
 	
 }
-@media screen and (max-height: 375px){
+@media screen and (max-width: 375px){
+	    #h2{
+			font-size:2px;
+		}
 		#content{
-        left: 280;
+		left: 90%;
 		}
         
 }
