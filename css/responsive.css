@@ -246,7 +246,10 @@
  
 }
 @media screen and (max-height: 415px) {
-
+       .square{
+			width: 100px;
+			
+		}
 }
 @media screen and (max-height: 375px){
 		#content {

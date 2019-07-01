@@ -961,6 +961,7 @@ input {
 
 .square {
   box-sizing: border-box;
+  
   padding: 0 40px 0 10px;
   width: 300px;
   height: 60px;
