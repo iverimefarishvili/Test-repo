@@ -249,6 +249,16 @@
    .wrapper{
 	   width: 80%;
    }
+   #content {
+  
+  
+			height: 50px;
+			width: 100px;
+			left:40%;
+			
+  
+}
+      
    
 }
 @media screen and (max-height: 415px) {
@@ -260,8 +270,7 @@
 	
 }
 @media screen and (max-height: 375px){
-		
-        
+		  
 }
 @media screen and (max-height: 320px) {
 
