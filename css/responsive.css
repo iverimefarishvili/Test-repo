@@ -278,8 +278,15 @@
 	
 }
 @media screen and (max-height: 375px){
-		  
-
+	#content {
+  
+  
+			
+			left:80%;
+			
+  
+}	  
+}
 	
 @media screen and (max-height: 320px) {
 
