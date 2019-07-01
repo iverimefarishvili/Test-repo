@@ -246,7 +246,9 @@
    .square{
 	   width: 180px;
    } 
-   
+   .wrapper{
+	   width: 80%;
+   }
 }
 @media screen and (max-height: 415px) {
 	.square{
